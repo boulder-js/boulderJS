@@ -9,7 +9,7 @@ This is a great opportunity to share what you know with the community, meet new 
 ## How it works
 
 - Read the guidelines below.
-- Submit a proposal via a [GitHub issue](https://github.com/boulder-js/boulderjs/issues/new) or email talks@seattlejs.com. Please follow the [template](#talk-proposal-template).
+- Submit a proposal via a [GitHub issue](https://github.com/boulder-js/boulderjs/issues/new) or email madison.kerndt@gmail.com. Please follow the [template](#talk-proposal-template).
 - If the proposal sounds like something that will work for our members, we'll group the talk with similar proposals and schedule it.
 
 ## What makes a good talk?
