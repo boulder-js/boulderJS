@@ -26,7 +26,7 @@ Loading...
 
 ### [Jon Bellah](https://twitter.com/jonbellah)
 
-#### Abstract:
+#### Demystifying State Machines
 
 User interfaces on the web are more complex today than ever before, so state design is more important now than ever before. In this talk, attendees will learn the fundamentals of state machines and how they help solve many of the difficulties inherent in managing application state by lowering cognitive overhead, mitigating bugs, and reducing regressions.
 
