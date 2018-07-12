@@ -12,9 +12,11 @@
 
 #### Abstract:
 
-Loading...
+#### The best Firebase crash course you never knew you needed
 
-### Chris
+Firebase is a platform for building awesome things. Sync data in realtime across devices. Upload files. Run server code. Authenticate users. Push notifications. Blazing fast web hosting. All without running your own server. Each piece of Firebase can work independently, but they are powerful when used together. David East will teach you how to build an app with Firebase from scratch.
+
+### Kevin Saldaña
 
 #### Abstract:
 
@@ -55,3 +57,17 @@ TBD
 We won't be having a meetup this month.
 
 **Happy holidays!** and we'll see you in the new year 🎉!
+
+---
+
+# 2019
+
+## January
+
+### [Kim Schlesinger](https://twitter.com/kimschles)
+
+#### Abstract:
+
+Loading...
+
+---
