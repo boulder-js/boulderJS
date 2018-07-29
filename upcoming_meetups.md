@@ -1,29 +1,5 @@
 # BoulderJS Upcoming Meetups
 
-## July
-
-### Location:
-
-[VictorOps](https://victorops.com/): 1401 Pearl St #300, Boulder, CO 80302
-
-### Speakers:
-
-### [David East](https://twitter.com/_davideast)
-
-#### Abstract:
-
-#### The best Firebase crash course you never knew you needed
-
-Firebase is a platform for building awesome things. Sync data in realtime across devices. Upload files. Run server code. Authenticate users. Push notifications. Blazing fast web hosting. All without running your own server. Each piece of Firebase can work independently, but they are powerful when used together. David East will teach you how to build an app with Firebase from scratch.
-
-### Kevin Saldaña
-
-#### Abstract:
-
-Loading...
-
----
-
 ## August
 
 ### [Jon Bellah](https://twitter.com/jonbellah)
@@ -42,7 +18,15 @@ Loading...
 
 ## September
 
-TBD
+### [Sili Lai](https://twitter.com/boulder_js)
+
+In the last few years, this is a growing interest in persistent data structures, motivated by omnipresent of interactive systems. Functional languages, like Clojure, Scala, and Elm, provide them as part of the standard library, and libraries in other languages like Immutable.js are widely used. In this talk, we will discuss the benefits of immutability and how to utilize persistent data structures in practice. Then I will show how to build an effective and flexible persistent vector type using Radix Trie.
+
+### [Mansoor Bahramand](https://twitter.com/developerxio)
+
+#### Abstract:
+
+Loading...
 
 ## October
 
