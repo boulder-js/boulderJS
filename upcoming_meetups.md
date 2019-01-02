@@ -26,6 +26,6 @@ Loading...
 
 ### [Sili Lai](www.linkedin.com/in/lesley-lai)
 
-#### Understand ersistence data structures
+#### Understand persistence data structures
 
 In the last few years, this is a growing interest in persistent data structures, motivated by omnipresent of interactive systems. Functional languages, like Clojure, Scala, and Elm, provide them as part of the standard library, and libraries in other languages like Immutable.js are widely used. In this talk, we will discuss the benefits of immutability and how to utilize persistent data structures in practice. Then I will show how to build an effective and flexible persistent vector type using Radix Trie.
